@@ -7,3 +7,4 @@ function prison() {
 console.log('main')
 console.log('冲突')
 console.log('feature1')
+console.log('feature2')
