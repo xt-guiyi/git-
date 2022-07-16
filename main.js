@@ -4,3 +4,4 @@ function prison() {
   console.log(new Date().now())
 }
 console.log('main')
+console.log('feature1')
